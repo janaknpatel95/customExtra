@@ -1,0 +1,12 @@
+<taglib>
+
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>Hello world tag</short-name>
+    <uri>http://janak.com/tags</uri>
+    <tag>
+        <name>hello</name>
+        <tag-class>org.example.Hello</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>
